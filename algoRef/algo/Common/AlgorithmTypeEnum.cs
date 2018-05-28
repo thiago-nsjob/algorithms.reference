@@ -1,6 +1,6 @@
 using System;
 
- namespace algo.common
+ namespace Algo.Common
 {
     public enum AlgorithmTypeEnum{
 

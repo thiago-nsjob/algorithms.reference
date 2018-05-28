@@ -1,7 +1,7 @@
 using System;
-using algo.common;
+using Algo.Common;
 
-namespace algo{
+namespace Algo{
 
     public class BubbleSort : IAlgorithm
     {
@@ -10,9 +10,7 @@ namespace algo{
             return AlgorithmTypeEnum.Sort ;        
         }
 
-        
         public  BubbleSort (){}
-
 
     }
 
