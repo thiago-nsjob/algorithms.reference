@@ -1,0 +1,9 @@
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\bin\Debug\netstandard2.0\Problems.Array.deps.json
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\bin\Debug\netstandard2.0\Problems.Array.dll
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\bin\Debug\netstandard2.0\Problems.Array.pdb
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\obj\Debug\netstandard2.0\Problems.Array.csprojAssemblyReference.cache
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\obj\Debug\netstandard2.0\Problems.Array.csproj.CoreCompileInputs.cache
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\obj\Debug\netstandard2.0\Problems.Array.AssemblyInfoInputs.cache
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\obj\Debug\netstandard2.0\Problems.Array.AssemblyInfo.cs
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\obj\Debug\netstandard2.0\Problems.Array.dll
+E:\Projetos\algoReference\algorithms.reference\Problems\Problems.Array\obj\Debug\netstandard2.0\Problems.Array.pdb

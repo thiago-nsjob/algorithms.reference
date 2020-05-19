@@ -1,0 +1,16 @@
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Run.exe
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Run.deps.json
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Run.runtimeconfig.json
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Run.runtimeconfig.dev.json
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Run.dll
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Run.pdb
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Problems.Array.dll
+E:\Projetos\algoReference\algorithms.reference\Run\bin\Debug\netcoreapp3.1\Problems.Array.pdb
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.csprojAssemblyReference.cache
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.csproj.CoreCompileInputs.cache
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.AssemblyInfoInputs.cache
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.AssemblyInfo.cs
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.csproj.CopyComplete
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.dll
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.pdb
+E:\Projetos\algoReference\algorithms.reference\Run\obj\Debug\netcoreapp3.1\Run.genruntimeconfig.cache

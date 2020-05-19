@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ob4GGTKmaVaZS2oB2NA+Zb4vvuvSGIQRG9GqXUadV2r4DUZ6PqdCNeHBr96caDbFQaKveftXfhc7jt2mtX8aNw==",
+  "success": true,
+  "projectFilePath": "E:\\Projetos\\algoReference\\algorithms.reference\\Problems\\Problems.Array\\Problems.Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
